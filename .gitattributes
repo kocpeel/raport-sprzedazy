@@ -1,0 +1,5 @@
+* text=auto
+*.png binary
+*.xlsx binary
+# The sample exports stay byte for byte: their encodings and line endings are part of the demo.
+przyklad/dane/*.csv -text

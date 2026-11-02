@@ -1,0 +1,28 @@
+{
+  "Sklep internetowy": {
+    "wartosc_gr": 4754450,
+    "w_raporcie": 480,
+    "anulowane": 34,
+    "duplikaty": 14,
+    "bledy": 6,
+    "ostrzezenia": 0
+  },
+  "Marketplace": {
+    "wartosc_gr": 5539910,
+    "w_raporcie": 580,
+    "anulowane": 25,
+    "duplikaty": 14,
+    "bledy": 5,
+    "ostrzezenia": 3
+  },
+  "Sklep stacjonarny": {
+    "wartosc_gr": 4639730,
+    "w_raporcie": 426,
+    "anulowane": 0,
+    "duplikaty": 0,
+    "bledy": 4,
+    "ostrzezenia": 0,
+    "pominiete": 2,
+    "suma_z_pliku_gr": 4674530
+  }
+}

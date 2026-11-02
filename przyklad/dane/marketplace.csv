@@ -1,0 +1,625 @@
+﻿order_id,created_at,offer_title,quantity,unit_price,state
+MP10394,01.01.2026,Notes A5 twarda oprawa,2,29.90,PAID
+MP10167,02.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10559,02.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10184,03.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10494,03.01.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10471,04.01.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10498,04.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10049,05.01.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10072,05.01.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10070,06.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10378,06.01.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10413,06.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10517,06.01.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10244,07.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10244,07.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10580,07.01.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,RETURNED
+MP10006,08.01.2026,Ręcznik szybkoschnący mikrofibra,3,45.00,PAID
+MP10126,08.01.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10339,08.01.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10575,08.01.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10011,09.01.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10534,09.01.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10608,09.01.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10029,10.01.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10105,10.01.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10146,10.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10563,10.01.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10475,11.01.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10484,11.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,CANCELLED
+MP10505,11.01.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10269,12.01.2026,Pojemniki na żywność komplet 5 szt,3,99.00,PAID
+MP10409,12.01.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10477,12.01.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10538,12.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10230,13.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10248,13.01.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10345,13.01.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10369,13.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10503,13.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10097,14.01.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10156,14.01.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10322,15.01.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10454,15.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10047,16.01.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10178,16.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10206,16.01.2026,Plecak miejski 20L wodoodporny,2,189.00,PAID
+MP10329,16.01.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10404,16.01.2026,MATA DO JOGI antypoślizgowa,2,119.00,PAID
+MP10423,16.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10511,16.01.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10151,17.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10480,17.01.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10483,17.01.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10493,17.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10031,18.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10127,18.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10127,18.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10335,18.01.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10549,18.01.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,RETURNED
+MP10173,19.01.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10194,19.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10395,19.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10015,31.02.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10018,22.01.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10158,22.01.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10474,22.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10000,23.01.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10033,23.01.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10489,23.01.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10520,24.01.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10361,25.01.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10590,25.01.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10013,26.01.2026,Świeca sojowa zapachowa,1,39.00,RETURNED
+MP10035,26.01.2026,Ręcznik szybkoschnący mikrofibra,3,45.00,RETURNED
+MP10469,26.01.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10373,27.01.2026,Świeca sojowa zapachowa,3,39.00,PAID
+MP10157,28.01.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10342,28.01.2026,Termos stalowy 1 l NOWOŚĆ,1,99.00,PAID
+MP10377,29.01.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10401,29.01.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10434,29.01.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10576,29.01.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10326,31.01.2026,MATA DO JOGI antypoślizgowa,1,119.00,RETURNED
+MP10372,01.02.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10439,01.02.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10056,02.02.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10111,02.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10016,04.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10102,04.02.2026,Pojemniki na żywność komplet 5 szt,2,99.00,PAID
+MP10153,04.02.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10432,04.02.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10197,05.02.2026,Świeca sojowa zapachowa,3,39.00,PAID
+MP10216,05.02.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10123,06.02.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10482,06.02.2026,Butelka z filtrem 700ml,2,79.00,CANCELLED
+MP10488,06.02.2026,Pojemniki na żywność komplet 5 szt,2,99.00,PAID
+MP10150,07.02.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10191,07.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10191,07.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10171,08.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10213,08.02.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10440,08.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10037,10.02.2026,Ręcznik szybkoschnący mikrofibra,3,45.00,RETURNED
+MP10138,10.02.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10332,10.02.2026,MATA DO JOGI antypoślizgowa,3,119.00,PAID
+MP10588,10.02.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10055,11.02.2026,Pojemniki na żywność komplet 5 szt,2,99.00,PAID
+MP10128,11.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10148,11.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10240,11.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10249,11.02.2026,Butelka z filtrem 700ml,3,79.00,PAID
+MP10398,11.02.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10250,12.02.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10289,12.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10294,12.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10110,13.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10187,14.02.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10462,14.02.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10560,14.02.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10092,15.02.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10177,15.02.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10223,15.02.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10198,16.02.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10285,16.02.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10241,17.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10497,17.02.2026,Butelka z filtrem 700ml,3,79.00,PAID
+MP10057,19.02.2026,Pojemniki na żywność komplet 5 szt,2,99.00,PAID
+MP10149,19.02.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10422,19.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10001,20.02.2026,MATA DO JOGI antypoślizgowa,2,119.00,PAID
+MP10327,20.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10392,20.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10485,20.02.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10044,21.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10058,21.02.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10242,21.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10259,21.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10010,22.02.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10233,22.02.2026,Pojemniki na żywność komplet 5 szt,2,99.00,RETURNED
+MP10453,23.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10453,23.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10456,23.02.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10544,23.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10147,24.02.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10251,24.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10297,24.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,RETURNED
+MP10472,24.02.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10510,24.02.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10155,25.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10529,25.02.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10535,25.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,RETURNED
+MP10028,26.02.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10205,26.02.2026,Pojemniki na żywność komplet 5 szt,3,99.00,PAID
+MP10490,26.02.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10577,26.02.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10052,27.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10243,27.02.2026,Notes A5 twarda oprawa,1,29.90,CANCELLED
+MP10168,28.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10291,28.02.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10336,28.02.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10348,28.02.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10451,28.02.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,RETURNED
+MP10273,01.03.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10557,01.03.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10595,01.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10012,02.03.2026,KUBEK TERMICZNY 450ML stal nierdzewna,3,59.90,PAID
+MP10087,02.03.2026,Butelka z filtrem 700ml,1,79.00,RETURNED
+MP10189,02.03.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,RETURNED
+MP10234,02.03.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10264,02.03.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10290,02.03.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10021,03.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10045,03.03.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10235,03.03.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10406,03.03.2026,Świeca sojowa zapachowa,1,39.00,CANCELLED
+MP10513,03.03.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10084,05.03.2026,Butelka z filtrem 700ml,1,79.00,CANCELLED
+MP10551,05.03.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10098,06.03.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10211,06.03.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10306,06.03.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,CANCELLED
+MP10478,06.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10478,06.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10587,06.03.2026,Organizer na biurko drewniany,3,49.90,PAID
+MP10073,07.03.2026,Pojemniki na żywność komplet 5 szt,2,99.00,PAID
+MP10525,31.02.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10256,08.03.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10088,09.03.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10287,10.03.2026,MATA DO JOGI antypoślizgowa,2,119.00,PAID
+MP10053,11.03.2026,MATA DO JOGI antypoślizgowa,2,119.00,RETURNED
+MP10163,12.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10222,12.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10507,12.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10564,12.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10020,13.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10186,13.03.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10221,13.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10276,13.03.2026,Butelka z filtrem 700ml,1,79.00,CANCELLED
+MP10301,13.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10589,13.03.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10320,14.03.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10393,14.03.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10599,14.03.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10388,15.03.2026,Świeca sojowa zapachowa,1,39.00,RETURNED
+MP10425,15.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10231,16.03.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10236,16.03.2026,Plecak miejski 20L wodoodporny,2,189.00,PAID
+MP10353,16.03.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10370,16.03.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10565,16.03.2026,Plecak miejski 20L wodoodporny,3,189.00,PAID
+MP10219,17.03.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10323,17.03.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10067,18.03.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10179,18.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10555,18.03.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10195,19.03.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10215,19.03.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10008,20.03.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10281,21.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10410,21.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10461,21.03.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10547,21.03.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10162,22.03.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10540,22.03.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10540,22.03.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10192,23.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10232,23.03.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10262,23.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10405,23.03.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,CANCELLED
+MP10481,23.03.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10014,24.03.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10107,24.03.2026,Termos stalowy 1 l NOWOŚĆ,1,99.00,PAID
+MP10340,24.03.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10385,24.03.2026,Butelka z filtrem 700ml,2,79.00,RETURNED
+MP10076,25.03.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10114,25.03.2026,KUBEK TERMICZNY 450ML stal nierdzewna,3,59.90,PAID
+MP10458,25.03.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10553,25.03.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10561,25.03.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10139,26.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10199,26.03.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10303,26.03.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10271,27.03.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10495,27.03.2026,KUBEK TERMICZNY 450ML stal nierdzewna,3,59.90,PAID
+MP10267,28.03.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10606,28.03.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10321,29.03.2026,MATA DO JOGI antypoślizgowa,1,119.00,CANCELLED
+MP10046,30.03.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10026,31.03.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10200,31.03.2026,Plecak miejski 20L wodoodporny,3,189.00,PAID
+MP10003,01.04.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,CANCELLED
+MP10036,01.04.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10077,01.04.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10280,01.04.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10334,01.04.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10499,01.04.2026,Pojemniki na żywność komplet 5 szt,3,99.00,PAID
+MP10060,02.04.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10086,02.04.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10117,02.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10309,02.04.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10447,02.04.2026,Butelka z filtrem 700ml,1,79.00,RETURNED
+MP10109,03.04.2026,Notes A5 twarda oprawa,3,29.90,PAID
+MP10132,03.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10430,03.04.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10509,03.04.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10137,04.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10137,04.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10582,04.04.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10120,05.04.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10174,05.04.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10364,05.04.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10433,05.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10116,06.04.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10446,06.04.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10514,06.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10556,06.04.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10579,06.04.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10347,07.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10386,07.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10030,08.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10135,08.04.2026,Świeca sojowa zapachowa,3,39.00,PAID
+MP10412,08.04.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10545,08.04.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10050,09.04.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10295,09.04.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,CANCELLED
+MP10337,09.04.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10390,09.04.2026,Notes A5 twarda oprawa,1,29.90,RETURNED
+MP10603,09.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10061,10.04.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10075,10.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10115,10.04.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,RETURNED
+MP10142,10.04.2026,Organizer na biurko drewniany,1,49.90,CANCELLED
+MP10268,10.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10362,10.04.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10523,10.04.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,CANCELLED
+MP10065,11.04.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10090,11.04.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10526,11.04.2026,LAMPKA BIURKOWA LED ściemnialna,3,129.00,PAID
+MP10080,12.04.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10188,12.04.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10508,12.04.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10581,12.04.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10307,13.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10328,13.04.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10408,13.04.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10546,13.04.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10152,14.04.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10574,31.02.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10059,15.04.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10238,15.04.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10400,15.04.2026,Notes A5 twarda oprawa,2,29.90,PAID
+MP10043,16.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10207,16.04.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10260,16.04.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10274,16.04.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10407,16.04.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10349,17.04.2026,Pojemniki na żywność komplet 5 szt,3,99.00,PAID
+MP10428,17.04.2026,Butelka z filtrem 700ml,2,79.00,RETURNED
+MP10455,17.04.2026,LAMPKA BIURKOWA LED ściemnialna,2,129.00,PAID
+MP10140,18.04.2026,Plecak miejski 20L wodoodporny,2,189.00,RETURNED
+MP10266,18.04.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10302,18.04.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10358,18.04.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10536,18.04.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10602,18.04.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10292,19.04.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10113,20.04.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10130,21.04.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10180,21.04.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10531,21.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,RETURNED
+MP10441,22.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10591,23.04.2026,LAMPKA BIURKOWA LED ściemnialna,3,129.00,PAID
+MP10226,24.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10270,24.04.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10515,24.04.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10024,25.04.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10025,25.04.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,CANCELLED
+MP10172,25.04.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10354,25.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10387,25.04.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10460,25.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10081,27.04.2026,Plecak miejski 20L wodoodporny,2,189.00,PAID
+MP10382,27.04.2026,Notes A5 twarda oprawa,2,29.90,PAID
+MP10527,27.04.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10419,28.04.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10476,28.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10607,28.04.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10134,29.04.2026,KUBEK TERMICZNY 450ML stal nierdzewna,3,59.90,PAID
+MP10169,29.04.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10169,29.04.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10368,29.04.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10071,30.04.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10002,01.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10261,01.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10491,01.05.2026,MATA DO JOGI antypoślizgowa,2,119.00,PAID
+MP10496,01.05.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10609,01.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10042,02.05.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10093,02.05.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10154,02.05.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10160,02.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10246,02.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10288,02.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10427,02.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10007,03.05.2026,Notes A5 twarda oprawa,2,29.90,PAID
+MP10027,03.05.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10255,03.05.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10283,03.05.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10389,03.05.2026,Pojemniki na żywność komplet 5 szt,2,99.00,PAID
+MP10543,03.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10586,03.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10237,04.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10554,04.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10562,04.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10099,05.05.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10170,05.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10314,05.05.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10344,05.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10089,06.05.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10096,06.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10228,06.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10371,06.05.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10005,07.05.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10431,07.05.2026,Organizer na biurko drewniany,2,49.90,CANCELLED
+MP10569,07.05.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10593,07.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,3,59.90,PAID
+MP10017,08.05.2026,MATA DO JOGI antypoślizgowa,2,119.00,PAID
+MP10212,08.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10252,08.05.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10305,08.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10308,08.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10308,08.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10550,08.05.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10118,09.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10263,09.05.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10518,09.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10201,10.05.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10436,10.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10504,10.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10600,11.05.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10136,12.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10284,12.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10293,12.05.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10437,12.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10094,13.05.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10203,13.05.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10275,13.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10585,13.05.2026,LAMPKA BIURKOWA LED ściemnialna,2,129.00,PAID
+MP10034,14.05.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10286,14.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10411,14.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10442,14.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10502,14.05.2026,Organizer na biurko drewniany,1,49.90,CANCELLED
+MP10594,14.05.2026,Plecak miejski 20L wodoodporny,3,189.00,PAID
+MP10176,15.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10258,15.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10486,15.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,CANCELLED
+MP10161,16.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10183,16.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10272,16.05.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10352,16.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10414,16.05.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10445,16.05.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10023,17.05.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10145,17.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10185,17.05.2026,Pojemniki na żywność komplet 5 szt,2,99.00,PAID
+MP10312,17.05.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10041,18.05.2026,Notes A5 twarda oprawa,3,29.90,PAID
+MP10351,18.05.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10399,31.02.2026,MATA DO JOGI antypoślizgowa,2,119.00,PAID
+MP10578,18.05.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10346,19.05.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10175,20.05.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10175,20.05.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10182,20.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10459,20.05.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10019,21.05.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10190,21.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10210,21.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10282,21.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10315,21.05.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10448,21.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10375,22.05.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10225,23.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10379,23.05.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10363,24.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10492,24.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10571,24.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10572,24.05.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10122,25.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10331,25.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10417,25.05.2026,Plecak miejski 20L wodoodporny,2,189.00,PAID
+MP10558,25.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10062,26.05.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10279,26.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,RETURNED
+MP10506,26.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10165,27.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10218,27.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10325,27.05.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10415,27.05.2026,Pojemniki na żywność komplet 5 szt,1,99.00,CANCELLED
+MP10424,27.05.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10516,27.05.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10522,27.05.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10204,28.05.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10313,28.05.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,RETURNED
+MP10091,29.05.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10278,29.05.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10298,29.05.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10257,30.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10365,30.05.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10095,31.05.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10245,31.05.2026,Pojemniki na żywność komplet 5 szt,2,99.00,PAID
+MP10450,31.05.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10537,31.05.2026,KUBEK TERMICZNY 450ML stal nierdzewna,3,59.90,PAID
+MP10038,01.06.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10038,01.06.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10051,01.06.2026,Notes A5 twarda oprawa,2,29.90,PAID
+MP10054,01.06.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10381,01.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10384,01.06.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10068,02.06.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10196,02.06.2026,Plecak miejski 20L wodoodporny,3,189.00,PAID
+MP10391,02.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10438,02.06.2026,Butelka z filtrem 700ml,1,79.00,RETURNED
+MP10605,02.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10078,03.06.2026,Plecak miejski 20L wodoodporny,2,189.00,PAID
+MP10247,03.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10254,03.06.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10528,03.06.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10100,04.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10104,04.06.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10141,04.06.2026,LAMPKA BIURKOWA LED ściemnialna,3,129.00,CANCELLED
+MP10338,04.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10457,04.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10039,05.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10125,05.06.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10277,05.06.2026,LAMPKA BIURKOWA LED ściemnialna,2,129.00,PAID
+MP10360,05.06.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10435,05.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10465,05.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10542,05.06.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10085,06.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10202,06.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10463,06.06.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10601,06.06.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10143,07.06.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10144,07.06.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10208,07.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,CANCELLED
+MP10214,07.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10296,07.06.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10330,07.06.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10426,07.06.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10487,07.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10304,08.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10466,08.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10108,09.06.2026,Plecak miejski 20L wodoodporny,1,189.00,CANCELLED
+MP10224,09.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10224,09.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10048,10.06.2026,Notes A5 twarda oprawa,1,29.90,RETURNED
+MP10530,10.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10532,10.06.2026,MATA DO JOGI antypoślizgowa,2,119.00,PAID
+MP10596,10.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,RETURNED
+MP10299,11.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10355,11.06.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10367,11.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10500,11.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10239,12.06.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10253,12.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,CANCELLED
+MP10343,12.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10452,12.06.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10473,12.06.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10573,12.06.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10604,12.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10112,13.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10319,13.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10583,13.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10317,14.06.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10318,14.06.2026,Termos stalowy 1 l NOWOŚĆ,2,129.00,PAID
+MP10376,14.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10403,14.06.2026,MATA DO JOGI antypoślizgowa,2,119.00,PAID
+MP10449,14.06.2026,Plecak miejski 20L wodoodporny,1,189.00,CANCELLED
+MP10598,14.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10022,15.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10066,15.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10131,15.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10166,15.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10220,15.06.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10356,15.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10366,15.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10468,15.06.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10040,16.06.2026,Świeca sojowa zapachowa,2,39.00,PAID
+MP10064,16.06.2026,Plecak miejski 20L wodoodporny,2,189.00,PAID
+MP10164,31.02.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10227,16.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10265,16.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10316,16.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10429,16.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10383,18.06.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10539,18.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10539,18.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10548,18.06.2026,MATA DO JOGI antypoślizgowa,1,119.00,CANCELLED
+MP10009,19.06.2026,Świeca sojowa zapachowa,1,39.00,CANCELLED
+MP10300,19.06.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10524,20.06.2026,Notes A5 twarda oprawa,3,29.90,PAID
+MP10103,21.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10121,21.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,RETURNED
+MP10310,21.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10357,21.06.2026,Notes A5 twarda oprawa,1,29.90,PAID
+MP10541,21.06.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10181,22.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10521,22.06.2026,Plecak miejski 20L wodoodporny,2,189.00,PAID
+MP10568,22.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10592,22.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10119,23.06.2026,Plecak miejski 20L wodoodporny,1,189.00,RETURNED
+MP10418,23.06.2026,Organizer na biurko drewniany,2,49.90,PAID
+MP10566,23.06.2026,Butelka z filtrem 700ml,2,79.00,PAID
+MP10584,23.06.2026,Organizer na biurko drewniany,1,49.90,PAID
+MP10063,24.06.2026,LAMPKA BIURKOWA LED ściemnialna,2,129.00,PAID
+MP10079,24.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10101,24.06.2026,Ręcznik szybkoschnący mikrofibra,3,45.00,PAID
+MP10133,24.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10217,24.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,2,59.90,PAID
+MP10380,24.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10470,24.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10519,24.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10552,24.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10004,25.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10359,25.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10467,25.06.2026,Plecak miejski 20L wodoodporny,2,189.00,RETURNED
+MP10512,25.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10074,26.06.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10106,26.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10396,26.06.2026,Organizer na biurko drewniany,3,49.90,PAID
+MP10570,26.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10069,27.06.2026,Notes A5 twarda oprawa,2,29.90,PAID
+MP10159,27.06.2026,Pojemniki na żywność komplet 5 szt,3,99.00,RETURNED
+MP10341,27.06.2026,Pojemniki na żywność komplet 5 szt,2,99.00,PAID
+MP10350,27.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10479,27.06.2026,Pojemniki na żywność komplet 5 szt,3,99.00,PAID
+MP10533,27.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10032,28.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10032,28.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10083,28.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10193,28.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10229,28.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10324,28.06.2026,MATA DO JOGI antypoślizgowa,1,119.00,PAID
+MP10333,28.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10374,28.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10597,28.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10082,29.06.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10124,29.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10129,29.06.2026,KUBEK TERMICZNY 450ML stal nierdzewna,1,59.90,PAID
+MP10209,29.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10311,29.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10416,29.06.2026,Ręcznik szybkoschnący mikrofibra,3,45.00,PAID
+MP10444,29.06.2026,Pojemniki na żywność komplet 5 szt,1,99.00,PAID
+MP10464,29.06.2026,Ręcznik szybkoschnący mikrofibra,2,45.00,PAID
+MP10397,30.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10402,30.06.2026,Świeca sojowa zapachowa,1,39.00,PAID
+MP10420,30.06.2026,LAMPKA BIURKOWA LED ściemnialna,1,129.00,PAID
+MP10421,30.06.2026,Butelka z filtrem 700ml,1,79.00,PAID
+MP10443,30.06.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID
+MP10501,30.06.2026,Plecak miejski 20L wodoodporny,1,189.00,PAID
+MP10567,30.06.2026,Ręcznik szybkoschnący mikrofibra,1,45.00,PAID

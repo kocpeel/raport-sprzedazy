@@ -1,0 +1,61 @@
+# Opis plików wejściowych. Nowy kanał sprzedaży to nowy blok [[zrodla]], bez zmian w kodzie.
+
+[raport]
+firma = "Sklep Przykładowy"
+produkty = "produkty.csv"
+# Opcjonalna informacja na początku raportu
+uwaga = "Dane przykładowe: firma, produkty i zamówienia są fikcyjne. Raport powstał automatycznie z trzech plików o różnych formatach, z rozmyślnie wprowadzonymi błędami."
+
+[[zrodla]]
+nazwa = "Sklep internetowy"
+plik = "sklep_online.csv"
+separator = ";"
+kodowanie = "cp1250"
+
+[zrodla.kolumny]
+numer = "Nr zamówienia"
+data = "Data zamówienia"
+produkt = "Produkt"
+ilosc = "Ilość"
+cena = "Cena brutto"
+status = "Status"
+
+[zrodla.statusy]
+zrealizowane = "sprzedaz"
+anulowane = "anulowane"
+zwrot = "zwrot"
+
+[[zrodla]]
+nazwa = "Marketplace"
+plik = "marketplace.csv"
+separator = ","
+kodowanie = "utf-8-sig"
+
+[zrodla.kolumny]
+numer = "order_id"
+data = "created_at"
+produkt = "offer_title"
+ilosc = "quantity"
+cena = "unit_price"
+status = "state"
+
+[zrodla.statusy]
+paid = "sprzedaz"
+cancelled = "anulowane"
+returned = "zwrot"
+
+[[zrodla]]
+nazwa = "Sklep stacjonarny"
+plik = "kasa_sklep.xlsx"
+arkusz = "Kasa"
+wiersz_naglowka = 4
+wykrywaj_duplikaty = false # kasa zapisuje każdy skan osobno, więc identyczne wiersze są normalne
+znacznik_sumy = "SUMA"
+kolumna_sumy = "Wartość"
+
+[zrodla.kolumny]
+numer = "Paragon"
+data = "Data"
+produkt = "Towar"
+ilosc = "Szt."
+cena = "Cena"
